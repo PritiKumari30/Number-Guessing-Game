@@ -1,3 +1,4 @@
+
 # 🎯 Number Guessing Game
 
 A simple interactive number guessing game built using HTML, CSS, and JavaScript.  
@@ -18,3 +19,5 @@ index.html
 style.css  
 script.js  
 
+# Number-Guessing-Game
+A beginner-friendly JavaScript project demonstrating DOM manipulation, event handling, and game logic.
